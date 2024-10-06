@@ -165,3 +165,4 @@ livrables/
 others/
 00_brouillon.ipynb
 data/data.csv
+.DS_Store
